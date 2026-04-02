@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I’m currently working on a Machine Learning project called Resume Optimizer, which analyzes and enhances resumes based on job descriptions to improve job matching accuracy. I’m also exploring MERN Stack development, combining my skills in both backend and frontend technologies to build interactive and efficient web applications. I’m looking to collaborate on Machine Learning or MERN Stack projects that focus on solving real-world problems through code and data-driven insights. Currently, I’m deepening my knowledge of Machine Learning algorithms, model optimization, and data preprocessing techniques. I’m also passionate about Data Structures and Algorithms (DSA) and enjoy discussing different problem-solving approaches. Fun fact — I love transforming complex technical ideas into simple, impactful solutions that make technology more useful and accessible.
+MERN Stack developer who turned a Gmail inbox into an automated expense tracker, made resumes smarter with AI, and taught stock markets to have feelings (via FinBERT sentiment analysis).
+Currently shipping: an AI-powered K-12 learning engine that replaced days of manual diagnostics with real-time student profiling — because waiting shouldn't be part of education.
+What I build:
+🧠 AI/ML-powered web apps (Gemini, HuggingFace, FinBERT)
+⚡ MERN systems that scale — 150+ users, sub-500ms, zero auth failures over 8 weeks
+📊 Data pipelines that save humans from spreadsheet suffering (10+ hrs/week saved)
+Currently obsessing over: ML algorithms, model optimization & making DSA feel like a superpower
+500+ LeetCode problems solved — not for fun, but... also for fun.
+I turn complex tech into things that actually work for real people.
 
 
 ## 🌐 Socials:
