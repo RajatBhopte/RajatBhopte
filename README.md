@@ -1,53 +1,219 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RajatBhopte/RajatBhopte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d47a1,100:00bcd4&height=200&section=header&text=Rajat%20Bhopte&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20DSA%20Nerd&descAlignY=56&descAlign=50&descSize=18&descColor=90caf9" />
 
-Here are some ideas to get you started:
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00BCD4&center=true&vCenter=true&multiline=false&width=650&lines=🚀+MERN+Stack+Developer+%7C+AI%2FML+Builder;🧠+Turning+ideas+into+scalable+products;📊+FinBERT+%7C+Gemini+%7C+HuggingFace+%7C+MERN;⚡+500%2B+LeetCode+problems+—+and+counting;🎓+Building+the+future+of+K-12+Education+AI" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-MERN Stack developer who turned a Gmail inbox into an automated expense tracker, made resumes smarter with AI, and taught stock markets to have feelings (via FinBERT sentiment analysis).
-Currently shipping: an AI-powered K-12 learning engine that replaced days of manual diagnostics with real-time student profiling — because waiting shouldn't be part of education.
-What I build:
-#
-#🧠 AI/ML-powered web apps (Gemini, HuggingFace, FinBERT)
-#⚡ MERN systems that scale — 150+ users, sub-500ms, zero auth failures over 8 weeks
-#📊 Data pipelines that save humans from spreadsheet suffering (10+ hrs/week saved)
-#
-Currently obsessing over: ML algorithms, model optimization & making DSA feel like a superpower
-500+ LeetCode problems solved — not for fun, but... also for fun.
-I turn complex tech into things that actually work for real people.
+<br/>
 
+<!-- Profile Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-bhopte/)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajatbhopte14@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajatbhopte)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@raja86333)
+[![Profile Views](https://komarev.com/ghpvc/?username=RajatBhopte&label=Profile+Views&color=00bcd4&style=for-the-badge)](https://github.com/RajatBhopte)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajatbhopte) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/RajatBhopte](https://www.linkedin.com/in/rajat-bhopte/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@raja86333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajatbhopte14@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RajatBhopte&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RajatBhopte&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajatBhopte&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RajatBhopte&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RajatBhopte&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RajatBhopte&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+```typescript
+const rajat = {
+  role:       "MERN Stack Developer + AI/ML Engineer",
+  location:   "Bhopal, India 🇮🇳",
+  currentlyBuilding: "AI-powered K-12 learning engine",
+  obsessedWith: ["ML algorithms", "model optimization", "DSA"],
+
+  superpowers: [
+    "Turned a Gmail inbox → automated expense tracker",
+    "Made resumes smarter with AI",
+    "Taught stock markets to have feelings (FinBERT 📈)",
+    "Replaced days of manual K-12 diagnostics with real-time student profiling"
+  ],
+
+  stats: {
+    leetcode:      "500+ problems solved",
+    uptime:        "Zero auth failures over 8 weeks",
+    latency:       "Sub-500ms response time",
+    users:         "150+ served",
+    hoursSaved:    "10+ hrs/week via data pipelines"
+  },
+
+  funFact: "I solve DSA problems for fun. Also for interview prep. Mostly for fun. 😅"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🌐 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🔧 Backend & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI / ML
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RajatBhopte&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajatBhopte&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=RajatBhopte&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+> **Setup:** Add this GitHub Action to generate the snake animation automatically!
+> Create `.github/workflows/snake.yml` → see the [setup guide below](#-bonus-snake-animation-setup).
+
+<!-- Once set up, replace the line below with your actual snake SVG URL -->
+<img src="https://raw.githubusercontent.com/RajatBhopte/RajatBhopte/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajatBhopte&bg_color=1a1b27&color=00bcd4&line=0d47a1&point=00bcd4&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RajatBhopte&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+</div>
+
+---
+
+## 💡 What I'm Up To
+
+- 🔭 **Building:** AI-powered K-12 adaptive learning engine with real-time student profiling
+- 🌱 **Learning:** Advanced ML optimization, Transformer architectures, System Design
+- 🤝 **Open to:** Collaborations on AI/ML × Web projects
+- 💬 **Ask me about:** MERN stack, FinBERT sentiment analysis, LeetCode patterns, full-stack architecture
+- ⚡ **Fun fact:** I automated my Gmail inbox to track expenses so I never have to open a spreadsheet again
+
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=RajatBhopte&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+## 🐍 Bonus: Snake Animation Setup
+
+To enable the animated contribution snake, create this file in your profile repo:
+
+**`.github/workflows/snake.yml`**
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+> After the Action runs once, your snake SVG will be live at:
+> `https://raw.githubusercontent.com/RajatBhopte/RajatBhopte/output/github-contribution-grid-snake-dark.svg`
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=RajatBhopte&icon=5&color=9)](https://visitcount.itsvg.in)
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,50:0d47a1,100:0d1117&height=120&section=footer" />
+
+</div>
