@@ -161,54 +161,7 @@ const rajat = {
   <img src="https://github-contributor-stats.vercel.app/api?username=RajatBhopte&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
----
-
-## 🐍 Bonus: Snake Animation Setup
-
-To enable the animated contribution snake, create this file in your profile repo:
-
-**`.github/workflows/snake.yml`**
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-> After the Action runs once, your snake SVG will be live at:
-> `https://raw.githubusercontent.com/RajatBhopte/RajatBhopte/output/github-contribution-grid-snake-dark.svg`
-
----
-
+--
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=RajatBhopte&icon=5&color=9)](https://visitcount.itsvg.in)
